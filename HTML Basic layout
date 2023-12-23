@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="shortcut icon"
+      sizes="16x16 32x32 64x64"
+      href="https://www.aut.ac.nz/__data/assets/file/0018/747/favicon.ico"
+    />
+    <title>Loo Piano Intro page</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="This is promotional website" />
+  </head>
+  <body>
+    <h1>
+      <mark><strong>We are surrounded by the design</strong></mark>
+    </h1>
+    <h2>
+      <a href="https://www.youtube.com/@loopiano" target="_blank">
+        <cite>Loo Piano Youtube Channel here</cite></a>
+      </h2>
+    </div>
+
+    <audio controls autoplay>
+      <source
+        src="C:\Users\Jonathan\Desktop\jpark\Close to you - Loo Piano_G_major.mp3"
+        type="audio/mp3"
+      />
+      Your browser does not support the audio element.
+    </audio>
+
+    <img
+      src="https://yt3.googleusercontent.com/oNGof3AyVCgv7W7iC4BIz8ipFiUVVW7vbOL27KLmDxZDz1Z5NjITVbfU3qWBLLKIBv6ISeTz8GI=s176-c-k-c0x00ffffff-no-rj"
+      width="300"
+      height="200"
+    />
+
+    <p>
+      <cite
+        ><abbr title="Loo Piano Channel">LPC</abbr> is a channel that provides
+        original songs into blended feel of classic and jazz</cite
+      >
+    </p>
+    <a> Write your favourite cover of Loopiano's list</a>
+
+    <form>
+      <input id="fileInput" type="file" accept=".mp3, .wav" />
+      <label for="fileInput">You can also upload the song you like:</label>
+      <input required placeholder="Song" type="text" />
+
+      <label for="Your Name">Please do not put your Staff ID</label>
+      <input required placeholder="Your Name" type="text" />
+
+      <input id="emailInput" required placeholder="Email" type="email" />
+      <input
+        required
+        minlength="10"
+        placeholder="Password (min 10 characters)"
+        type="password"
+      />
+      <div>
+        <input required type="submit" value="Submit List" />
+        <label for="website"
+          >Link for the 1st Loopiano video you listened to</label
+        >
+        <input id for-="website" required placeholder="url" type="url" />
+      </div>
+    </form>
+
+    <br />
+
+    <img src="Johannesburg 2017.jpg" width="1300" height="900"/ >
+
+    <h2><a href="https://www.youtube.com/channel/@loopiano?sub_confirmation=1" target="blank">
+      <cite>Subscribe to Loo Piano Click Here</cite>
+    </a></h2>
+   
+    
+   
+    <ul>----Prizes for lucky 3 x luck draw winners----
+      <li>Piano</li>
+      <li>Piano desk</li>
+      <li>MIDI files</li>
+    </ul>
+
+  
+    <ol>----Just some lists----
+      <li>Don't know why</li>
+      <li>Autumn in New York</li>
+      <li>Loving you - Kenny G</li>
+    </ol>
+
+    <address>77 Kitchener Road</address>
+    <footer>JP Entertainment LTD</footer>
+  </body>
+</html>
