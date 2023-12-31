@@ -9,3 +9,19 @@
     color:white;
     font-weight: 600;
 }
+
+.new-badge {
+    background-color: white;
+    width: 30px;
+    height:30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    color:red;
+    font-weight: 600;
+    
+    
+    
+
+}
+
