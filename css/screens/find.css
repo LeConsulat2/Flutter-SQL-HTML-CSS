@@ -110,3 +110,8 @@
 .open-post__heart-count span {
     margin-left: 3px;
 }
+
+body {
+    height: 200vh;
+  }
+  
